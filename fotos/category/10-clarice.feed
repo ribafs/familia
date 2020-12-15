@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:09 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/10-clarice.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>clarice7</title>
+			<link>http://ribafs.org/familia/fotos/category/10-clarice.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/10-clarice.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/10-clarice.html"><img src="http://ribafs.org/familia/images/phocagallery/clarice/thumbs/phoca_thumb_m_clarice7.jpg" border="0" /></a></div>]]></description>
+			<category>Clarice</category>
+			<pubDate>Tue, 08 May 2018 09:05:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>clarice8</title>
+			<link>http://ribafs.org/familia/fotos/category/10-clarice.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/10-clarice.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/10-clarice.html"><img src="http://ribafs.org/familia/images/phocagallery/clarice/thumbs/phoca_thumb_m_clarice8.jpg" border="0" /></a></div>]]></description>
+			<category>Clarice</category>
+			<pubDate>Tue, 08 May 2018 09:05:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>clarice9</title>
+			<link>http://ribafs.org/familia/fotos/category/10-clarice.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/10-clarice.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/10-clarice.html"><img src="http://ribafs.org/familia/images/phocagallery/clarice/thumbs/phoca_thumb_m_clarice9.jpg" border="0" /></a></div>]]></description>
+			<category>Clarice</category>
+			<pubDate>Tue, 08 May 2018 09:05:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>clarice10</title>
+			<link>http://ribafs.org/familia/fotos/category/10-clarice.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/10-clarice.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/10-clarice.html"><img src="http://ribafs.org/familia/images/phocagallery/clarice/thumbs/phoca_thumb_m_clarice10.jpg" border="0" /></a></div>]]></description>
+			<category>Clarice</category>
+			<pubDate>Tue, 08 May 2018 09:05:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>clarice11</title>
+			<link>http://ribafs.org/familia/fotos/category/10-clarice.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/10-clarice.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/10-clarice.html"><img src="http://ribafs.org/familia/images/phocagallery/clarice/thumbs/phoca_thumb_m_clarice11.jpg" border="0" /></a></div>]]></description>
+			<category>Clarice</category>
+			<pubDate>Tue, 08 May 2018 09:05:48 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

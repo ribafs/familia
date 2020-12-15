@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:02 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/24-andré.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>andre</title>
+			<link>http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/24-andré.html"><img src="http://ribafs.org/familia/images/phocagallery/andre/thumbs/phoca_thumb_m_andre.jpg" border="0" /></a></div>]]></description>
+			<category>André</category>
+			<pubDate>Tue, 08 May 2018 10:05:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>andre1</title>
+			<link>http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/24-andré.html"><img src="http://ribafs.org/familia/images/phocagallery/andre/thumbs/phoca_thumb_m_andre1.jpg" border="0" /></a></div>]]></description>
+			<category>André</category>
+			<pubDate>Tue, 08 May 2018 10:05:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>andre2</title>
+			<link>http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/24-andré.html"><img src="http://ribafs.org/familia/images/phocagallery/andre/thumbs/phoca_thumb_m_andre2.jpg" border="0" /></a></div>]]></description>
+			<category>André</category>
+			<pubDate>Tue, 08 May 2018 10:05:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>andre3</title>
+			<link>http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/24-andré.html"><img src="http://ribafs.org/familia/images/phocagallery/andre/thumbs/phoca_thumb_m_andre3.jpg" border="0" /></a></div>]]></description>
+			<category>André</category>
+			<pubDate>Tue, 08 May 2018 10:05:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>andre4</title>
+			<link>http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/24-andr%C3%A9.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/24-andré.html"><img src="http://ribafs.org/familia/images/phocagallery/andre/thumbs/phoca_thumb_m_andre4.jpg" border="0" /></a></div>]]></description>
+			<category>André</category>
+			<pubDate>Tue, 08 May 2018 10:05:25 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

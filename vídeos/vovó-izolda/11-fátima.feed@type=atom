@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">Vovó Izolda</title>
+	<subtitle type="text">Site da família Evangelista Ferreira</subtitle>
+	<link rel="alternate" type="text/html" href="http://ribafs.org"/>
+	<id>http://ribafs.org/familia/v%C3%ADdeos/vov%C3%B3-izolda/11-f%C3%A1tima.feed</id>
+	<updated>2018-11-16T11:44:55+00:00</updated>
+	<author>
+		<name>Familia EF</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://ribafs.org/familia/vídeos/vovó-izolda/11-fátima.feed?type=atom"/>
+	<entry>
+		<title>Dia das mães de 2012</title>
+		<link rel="alternate" type="text/html" href="http://ribafs.org/familia/v%C3%ADdeos/vov%C3%B3-izolda/11-f%C3%A1tima/7-dia-das-m%C3%A3es-de-2012.html"/>
+		<published>2018-05-09T15:19:25+00:00</published>
+		<updated>2018-05-09T15:19:25+00:00</updated>
+		<id>http://ribafs.org/familia/v%C3%ADdeos/vov%C3%B3-izolda/11-f%C3%A1tima/7-dia-das-m%C3%A3es-de-2012.html</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3&gt;Dia das mães de 2012&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Clique para assistir no Youtube&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;parte 2&quot; href=&quot;https://www.youtube.com/watch?v=AWD22ZgVn6U&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;parte2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;parte 1&quot; href=&quot;https://www.youtube.com/watch?v=ctnCyHkcL_4&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;parte3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;parte2&quot; href=&quot;https://www.youtube.com/watch?v=b0pk4SetFNg&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;parte4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;Dia das mães de 2012&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Clique para assistir no Youtube&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;parte 2&quot; href=&quot;https://www.youtube.com/watch?v=AWD22ZgVn6U&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;parte2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;parte 1&quot; href=&quot;https://www.youtube.com/watch?v=ctnCyHkcL_4&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;parte3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;parte2&quot; href=&quot;https://www.youtube.com/watch?v=b0pk4SetFNg&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;parte4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Fátima" />
+	</entry>
+	<entry>
+		<title>Vovó Izolda</title>
+		<link rel="alternate" type="text/html" href="http://ribafs.org/familia/v%C3%ADdeos/vov%C3%B3-izolda.html"/>
+		<published>2018-05-09T14:46:41+00:00</published>
+		<updated>2018-05-09T14:46:41+00:00</updated>
+		<id>http://ribafs.org/familia/v%C3%ADdeos/vov%C3%B3-izolda.html</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3&gt;Vovó Izolda jogando com os netos.&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Vovó&quot; href=&quot;https://youtu.be/szYR9Td7oMQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Clique para assistir no Youtube&lt;/a&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;Vovó Izolda jogando com os netos.&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Vovó&quot; href=&quot;https://youtu.be/szYR9Td7oMQ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Clique para assistir no Youtube&lt;/a&gt; &lt;/p&gt;</content>
+		<category term="Fátima" />
+	</entry>
+</feed>

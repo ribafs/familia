@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:32 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/23-lívia.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>livia1</title>
+			<link>http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/23-lívia.html"><img src="http://ribafs.org/familia/images/phocagallery/livia/thumbs/phoca_thumb_m_livia1.jpg" border="0" /></a></div>]]></description>
+			<category>Lívia</category>
+			<pubDate>Tue, 08 May 2018 09:05:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>livia2</title>
+			<link>http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/23-lívia.html"><img src="http://ribafs.org/familia/images/phocagallery/livia/thumbs/phoca_thumb_m_livia2.jpg" border="0" /></a></div>]]></description>
+			<category>Lívia</category>
+			<pubDate>Tue, 08 May 2018 09:05:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>livia3</title>
+			<link>http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/23-lívia.html"><img src="http://ribafs.org/familia/images/phocagallery/livia/thumbs/phoca_thumb_m_livia3.jpg" border="0" /></a></div>]]></description>
+			<category>Lívia</category>
+			<pubDate>Tue, 08 May 2018 09:05:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>livia4</title>
+			<link>http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/23-lívia.html"><img src="http://ribafs.org/familia/images/phocagallery/livia/thumbs/phoca_thumb_m_livia4.jpg" border="0" /></a></div>]]></description>
+			<category>Lívia</category>
+			<pubDate>Tue, 08 May 2018 09:05:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>liviafamilia</title>
+			<link>http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/23-l%C3%ADvia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/23-lívia.html"><img src="http://ribafs.org/familia/images/phocagallery/livia/thumbs/phoca_thumb_m_liviafamilia.jpg" border="0" /></a></div>]]></description>
+			<category>Lívia</category>
+			<pubDate>Tue, 08 May 2018 09:05:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

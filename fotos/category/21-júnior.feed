@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:28 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/21-júnior.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>junior</title>
+			<link>http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/21-júnior.html"><img src="http://ribafs.org/familia/images/phocagallery/junior/thumbs/phoca_thumb_m_junior.jpg" border="0" /></a></div>]]></description>
+			<category>Júnior</category>
+			<pubDate>Tue, 08 May 2018 09:05:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>junior2</title>
+			<link>http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/21-júnior.html"><img src="http://ribafs.org/familia/images/phocagallery/junior/thumbs/phoca_thumb_m_junior2.jpg" border="0" /></a></div>]]></description>
+			<category>Júnior</category>
+			<pubDate>Tue, 08 May 2018 09:05:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>junior3</title>
+			<link>http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/21-júnior.html"><img src="http://ribafs.org/familia/images/phocagallery/junior/thumbs/phoca_thumb_m_junior3.jpg" border="0" /></a></div>]]></description>
+			<category>Júnior</category>
+			<pubDate>Tue, 08 May 2018 09:05:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>junior4</title>
+			<link>http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/21-júnior.html"><img src="http://ribafs.org/familia/images/phocagallery/junior/thumbs/phoca_thumb_m_junior4.jpg" border="0" /></a></div>]]></description>
+			<category>Júnior</category>
+			<pubDate>Tue, 08 May 2018 09:05:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>junior5</title>
+			<link>http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/21-j%C3%BAnior.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/21-júnior.html"><img src="http://ribafs.org/familia/images/phocagallery/junior/thumbs/phoca_thumb_m_junior5.jpg" border="0" /></a></div>]]></description>
+			<category>Júnior</category>
+			<pubDate>Tue, 08 May 2018 09:05:29 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

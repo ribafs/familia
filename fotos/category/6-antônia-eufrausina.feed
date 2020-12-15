@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:05 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/6-antônia-eufrausina.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>andregian</title>
+			<link>http://ribafs.org/familia/fotos/category/6-ant%C3%B4nia-eufrausina.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/6-ant%C3%B4nia-eufrausina.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/6-antônia-eufrausina.html"><img src="http://ribafs.org/familia/images/phocagallery/antoniaeufrausina/thumbs/phoca_thumb_m_andregian.jpg" border="0" /></a></div>]]></description>
+			<category>Antônia Eufrausina</category>
+			<pubDate>Tue, 08 May 2018 08:05:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>andre_esposa</title>
+			<link>http://ribafs.org/familia/fotos/category/6-ant%C3%B4nia-eufrausina.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/6-ant%C3%B4nia-eufrausina.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/6-antônia-eufrausina.html"><img src="http://ribafs.org/familia/images/phocagallery/antoniaeufrausina/thumbs/phoca_thumb_m_andre_esposa.jpg" border="0" /></a></div>]]></description>
+			<category>Antônia Eufrausina</category>
+			<pubDate>Tue, 08 May 2018 08:05:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>antonia</title>
+			<link>http://ribafs.org/familia/fotos/category/6-ant%C3%B4nia-eufrausina.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/6-ant%C3%B4nia-eufrausina.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/6-antônia-eufrausina.html"><img src="http://ribafs.org/familia/images/phocagallery/antoniaeufrausina/thumbs/phoca_thumb_m_antonia.jpg" border="0" /></a></div>]]></description>
+			<category>Antônia Eufrausina</category>
+			<pubDate>Tue, 08 May 2018 08:05:52 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

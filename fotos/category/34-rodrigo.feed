@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:48 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/34-rodrigo.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>rodrigo</title>
+			<link>http://ribafs.org/familia/fotos/category/34-rodrigo.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/34-rodrigo.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/34-rodrigo.html"><img src="http://ribafs.org/familia/images/phocagallery/rodrigo/thumbs/phoca_thumb_m_rodrigo.jpg" border="0" /></a></div>]]></description>
+			<category>Rodrigo</category>
+			<pubDate>Tue, 08 May 2018 10:05:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>rodrigo2</title>
+			<link>http://ribafs.org/familia/fotos/category/34-rodrigo.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/34-rodrigo.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/34-rodrigo.html"><img src="http://ribafs.org/familia/images/phocagallery/rodrigo/thumbs/phoca_thumb_m_rodrigo2.jpg" border="0" /></a></div>]]></description>
+			<category>Rodrigo</category>
+			<pubDate>Tue, 08 May 2018 10:05:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>rodrigo3</title>
+			<link>http://ribafs.org/familia/fotos/category/34-rodrigo.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/34-rodrigo.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/34-rodrigo.html"><img src="http://ribafs.org/familia/images/phocagallery/rodrigo/thumbs/phoca_thumb_m_rodrigo3.jpg" border="0" /></a></div>]]></description>
+			<category>Rodrigo</category>
+			<pubDate>Tue, 08 May 2018 10:05:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>rodrigo4</title>
+			<link>http://ribafs.org/familia/fotos/category/34-rodrigo.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/34-rodrigo.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/34-rodrigo.html"><img src="http://ribafs.org/familia/images/phocagallery/rodrigo/thumbs/phoca_thumb_m_rodrigo4.jpg" border="0" /></a></div>]]></description>
+			<category>Rodrigo</category>
+			<pubDate>Tue, 08 May 2018 10:05:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>rodrigo5</title>
+			<link>http://ribafs.org/familia/fotos/category/34-rodrigo.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/34-rodrigo.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/34-rodrigo.html"><img src="http://ribafs.org/familia/images/phocagallery/rodrigo/thumbs/phoca_thumb_m_rodrigo5.jpg" border="0" /></a></div>]]></description>
+			<category>Rodrigo</category>
+			<pubDate>Tue, 08 May 2018 10:05:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Voz ainda Bebê</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org/familia/tiago/tiago-beb%C3%AA/9-tiago.html</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:43:55 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/tiago/tiago-bebê/9-tiago.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Voz do Tiago Bebê</title>
+			<link>http://ribafs.org/familia/tiago/tiago-beb%C3%AA.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/tiago/tiago-beb%C3%AA.html</guid>
+			<description><![CDATA[<h3>Áudio do Tiago ainda Bebê</h3>
+
+<p><a href="http://ribafs.org/familia/images/audios/filhos/tiago_mamae.ogg">Mamãe</a></p>
+
+<p><a href="http://ribafs.org/familia/images/audios/filhos/tiago_papai.ogg">Papai</a></p>
+
+<p><a href="http://ribafs.org/familia/images/audios/filhos/tiago1m21d.mp4">1 mês e 21 dias</a></p>
+
+<p><a href="http://ribafs.org/familia/images/audios/filhos/tiago_vovoisolda.mp4">Vovó Izolda</a></p>
+
+<p><a href="http://ribafs.org/familia/images/audios/filhos/tiago_vovojulieta.mp4">Vovó Julieta</a></p>
+
+<p><a href="http://ribafs.org/familia/images/audios/filhos/tiago_vovoze.mp4">Vovô Zé</a></p>
+
+<p><a href="http://ribafs.org/familia/images/audios/filhos/tiago_vovozelito.mp4">Vovô Zelito</a></p>]]></description>
+			<category>Tiago</category>
+			<pubDate>Sun, 06 May 2018 17:02:20 +0000</pubDate>
+		</item>
+		<item>
+			<title>Vídeos do Tiago</title>
+			<link>http://ribafs.org/familia/v%C3%ADdeos/v%C3%ADdeos.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/v%C3%ADdeos/v%C3%ADdeos.html</guid>
+			<description><![CDATA[<h3><strong>A Gatora Perfeita</strong></h3>
+
+<p> </p>
+
+<p><video src="http://ribafs.org/familia/images/videos/tiago/garotaperfeita.mp4" controls="controls" width="500" height="350">
+
+  Seu navegador não suporta o elemento <code>video</code>.</video></p>]]></description>
+			<category>Tiago</category>
+			<pubDate>Sun, 06 May 2018 15:23:13 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">José &amp; Julieta</title>
+	<subtitle type="text">Site da família Evangelista Ferreira</subtitle>
+	<link rel="alternate" type="text/html" href="http://ribafs.org"/>
+	<id>http://ribafs.org/familia/v%C3%ADdeos/jos%C3%A9-julieta/12-ribamar.feed</id>
+	<updated>2018-11-16T11:44:55+00:00</updated>
+	<author>
+		<name>Familia EF</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://ribafs.org/familia/vídeos/josé-julieta/12-ribamar.feed?type=atom"/>
+	<entry>
+		<title>José Ferreira e Julieta</title>
+		<link rel="alternate" type="text/html" href="http://ribafs.org/familia/v%C3%ADdeos/jos%C3%A9-julieta.html"/>
+		<published>2018-05-09T15:27:03+00:00</published>
+		<updated>2018-05-09T15:27:03+00:00</updated>
+		<id>http://ribafs.org/familia/v%C3%ADdeos/jos%C3%A9-julieta.html</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3&gt;&lt;strong&gt;Clique para assistir no Youtube&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Bodas&quot; href=&quot;https://www.youtube.com/watch?v=59lZPTGsNfU&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Missa das Bodas de Ouro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lbk9InmoREU&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Valsa nas bodas de ouro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LMywhBLdgag&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Usando Computador pela Primeira Vez&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ow7gOfeoTQs&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; Missa dos 57 anos de casados&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;&lt;strong&gt;Clique para assistir no Youtube&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Bodas&quot; href=&quot;https://www.youtube.com/watch?v=59lZPTGsNfU&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Missa das Bodas de Ouro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lbk9InmoREU&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Valsa nas bodas de ouro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LMywhBLdgag&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Usando Computador pela Primeira Vez&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ow7gOfeoTQs&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt; Missa dos 57 anos de casados&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Ribamar" />
+	</entry>
+</feed>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:37 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/41-meire.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>meire</title>
+			<link>http://ribafs.org/familia/fotos/category/41-meire.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/41-meire.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/41-meire.html"><img src="http://ribafs.org/familia/images/phocagallery/meire/thumbs/phoca_thumb_m_meire.jpg" border="0" /></a></div>]]></description>
+			<category>Meire</category>
+			<pubDate>Wed, 09 May 2018 11:05:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>meire2</title>
+			<link>http://ribafs.org/familia/fotos/category/41-meire.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/41-meire.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/41-meire.html"><img src="http://ribafs.org/familia/images/phocagallery/meire/thumbs/phoca_thumb_m_meire2.jpg" border="0" /></a></div>]]></description>
+			<category>Meire</category>
+			<pubDate>Wed, 09 May 2018 11:05:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>meire3</title>
+			<link>http://ribafs.org/familia/fotos/category/41-meire.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/41-meire.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/41-meire.html"><img src="http://ribafs.org/familia/images/phocagallery/meire/thumbs/phoca_thumb_m_meire3.jpg" border="0" /></a></div>]]></description>
+			<category>Meire</category>
+			<pubDate>Wed, 09 May 2018 11:05:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>meire4</title>
+			<link>http://ribafs.org/familia/fotos/category/41-meire.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/41-meire.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/41-meire.html"><img src="http://ribafs.org/familia/images/phocagallery/meire/thumbs/phoca_thumb_m_meire4.jpg" border="0" /></a></div>]]></description>
+			<category>Meire</category>
+			<pubDate>Wed, 09 May 2018 11:05:37 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

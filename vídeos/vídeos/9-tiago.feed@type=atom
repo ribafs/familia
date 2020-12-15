@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">Tiago</title>
+	<subtitle type="text">Site da família Evangelista Ferreira</subtitle>
+	<link rel="alternate" type="text/html" href="http://ribafs.org"/>
+	<id>http://ribafs.org/familia/v%C3%ADdeos/v%C3%ADdeos/9-tiago.feed</id>
+	<updated>2018-11-16T11:44:54+00:00</updated>
+	<author>
+		<name>Familia EF</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://ribafs.org/familia/vídeos/vídeos/9-tiago.feed?type=atom"/>
+	<entry>
+		<title>Voz do Tiago Bebê</title>
+		<link rel="alternate" type="text/html" href="http://ribafs.org/familia/tiago/tiago-beb%C3%AA.html"/>
+		<published>2018-05-06T17:02:20+00:00</published>
+		<updated>2018-05-06T17:02:20+00:00</updated>
+		<id>http://ribafs.org/familia/tiago/tiago-beb%C3%AA.html</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3&gt;Áudio do Tiago ainda Bebê&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_mamae.ogg&quot;&gt;Mamãe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_papai.ogg&quot;&gt;Papai&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago1m21d.mp4&quot;&gt;1 mês e 21 dias&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovoisolda.mp4&quot;&gt;Vovó Izolda&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovojulieta.mp4&quot;&gt;Vovó Julieta&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovoze.mp4&quot;&gt;Vovô Zé&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovozelito.mp4&quot;&gt;Vovô Zelito&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;Áudio do Tiago ainda Bebê&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_mamae.ogg&quot;&gt;Mamãe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_papai.ogg&quot;&gt;Papai&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago1m21d.mp4&quot;&gt;1 mês e 21 dias&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovoisolda.mp4&quot;&gt;Vovó Izolda&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovojulieta.mp4&quot;&gt;Vovó Julieta&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovoze.mp4&quot;&gt;Vovô Zé&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/tiago_vovozelito.mp4&quot;&gt;Vovô Zelito&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Tiago" />
+	</entry>
+	<entry>
+		<title>Vídeos do Tiago</title>
+		<link rel="alternate" type="text/html" href="http://ribafs.org/familia/v%C3%ADdeos/v%C3%ADdeos.html"/>
+		<published>2018-05-06T15:23:13+00:00</published>
+		<updated>2018-05-06T15:23:13+00:00</updated>
+		<id>http://ribafs.org/familia/v%C3%ADdeos/v%C3%ADdeos.html</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3&gt;&lt;strong&gt;A Gatora Perfeita&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;video src=&quot;http://ribafs.org/familia/images/videos/tiago/garotaperfeita.mp4&quot; controls=&quot;controls&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;
+
+  Seu navegador não suporta o elemento &lt;code&gt;video&lt;/code&gt;.&lt;/video&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;&lt;strong&gt;A Gatora Perfeita&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;video src=&quot;http://ribafs.org/familia/images/videos/tiago/garotaperfeita.mp4&quot; controls=&quot;controls&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;
+
+  Seu navegador não suporta o elemento &lt;code&gt;video&lt;/code&gt;.&lt;/video&gt;&lt;/p&gt;</content>
+		<category term="Tiago" />
+	</entry>
+</feed>

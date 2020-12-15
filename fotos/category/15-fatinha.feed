@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:19 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/15-fatinha.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>fatinha</title>
+			<link>http://ribafs.org/familia/fotos/category/15-fatinha.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/15-fatinha.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/15-fatinha.html"><img src="http://ribafs.org/familia/images/phocagallery/fatinha/thumbs/phoca_thumb_m_fatinha.jpg" border="0" /></a></div>]]></description>
+			<category>Fatinha</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatinha2</title>
+			<link>http://ribafs.org/familia/fotos/category/15-fatinha.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/15-fatinha.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/15-fatinha.html"><img src="http://ribafs.org/familia/images/phocagallery/fatinha/thumbs/phoca_thumb_m_fatinha2.jpg" border="0" /></a></div>]]></description>
+			<category>Fatinha</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatinha3</title>
+			<link>http://ribafs.org/familia/fotos/category/15-fatinha.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/15-fatinha.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/15-fatinha.html"><img src="http://ribafs.org/familia/images/phocagallery/fatinha/thumbs/phoca_thumb_m_fatinha3.jpg" border="0" /></a></div>]]></description>
+			<category>Fatinha</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatinha4</title>
+			<link>http://ribafs.org/familia/fotos/category/15-fatinha.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/15-fatinha.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/15-fatinha.html"><img src="http://ribafs.org/familia/images/phocagallery/fatinha/thumbs/phoca_thumb_m_fatinha4.jpg" border="0" /></a></div>]]></description>
+			<category>Fatinha</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatinha5</title>
+			<link>http://ribafs.org/familia/fotos/category/15-fatinha.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/15-fatinha.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/15-fatinha.html"><img src="http://ribafs.org/familia/images/phocagallery/fatinha/thumbs/phoca_thumb_m_fatinha5.jpg" border="0" /></a></div>]]></description>
+			<category>Fatinha</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

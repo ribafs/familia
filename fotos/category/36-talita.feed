@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:51 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/36-talita.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>talita2</title>
+			<link>http://ribafs.org/familia/fotos/category/36-talita.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/36-talita.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/36-talita.html"><img src="http://ribafs.org/familia/images/phocagallery/talita/thumbs/phoca_thumb_m_talita2.jpg" border="0" /></a></div>]]></description>
+			<category>Talita</category>
+			<pubDate>Tue, 08 May 2018 10:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>talita3</title>
+			<link>http://ribafs.org/familia/fotos/category/36-talita.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/36-talita.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/36-talita.html"><img src="http://ribafs.org/familia/images/phocagallery/talita/thumbs/phoca_thumb_m_talita3.jpg" border="0" /></a></div>]]></description>
+			<category>Talita</category>
+			<pubDate>Tue, 08 May 2018 10:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>talita4</title>
+			<link>http://ribafs.org/familia/fotos/category/36-talita.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/36-talita.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/36-talita.html"><img src="http://ribafs.org/familia/images/phocagallery/talita/thumbs/phoca_thumb_m_talita4.jpg" border="0" /></a></div>]]></description>
+			<category>Talita</category>
+			<pubDate>Tue, 08 May 2018 10:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>talita5</title>
+			<link>http://ribafs.org/familia/fotos/category/36-talita.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/36-talita.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/36-talita.html"><img src="http://ribafs.org/familia/images/phocagallery/talita/thumbs/phoca_thumb_m_talita5.jpg" border="0" /></a></div>]]></description>
+			<category>Talita</category>
+			<pubDate>Tue, 08 May 2018 10:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>talita6</title>
+			<link>http://ribafs.org/familia/fotos/category/36-talita.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/36-talita.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/36-talita.html"><img src="http://ribafs.org/familia/images/phocagallery/talita/thumbs/phoca_thumb_m_talita6.jpg" border="0" /></a></div>]]></description>
+			<category>Talita</category>
+			<pubDate>Tue, 08 May 2018 10:05:02 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

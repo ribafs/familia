@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:45 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/31-ribamar.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>dnocs_natal2006</title>
+			<link>http://ribafs.org/familia/fotos/category/31-ribamar.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/31-ribamar.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/31-ribamar.html"><img src="http://ribafs.org/familia/images/phocagallery/ribamar/thumbs/phoca_thumb_m_dnocs_natal2006.png" border="0" /></a></div>]]></description>
+			<category>Ribamar</category>
+			<pubDate>Tue, 08 May 2018 10:05:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>equipe</title>
+			<link>http://ribafs.org/familia/fotos/category/31-ribamar.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/31-ribamar.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/31-ribamar.html"><img src="http://ribafs.org/familia/images/phocagallery/ribamar/thumbs/phoca_thumb_m_equipe.jpg" border="0" /></a></div>]]></description>
+			<category>Ribamar</category>
+			<pubDate>Tue, 08 May 2018 10:05:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>eu_dnocs</title>
+			<link>http://ribafs.org/familia/fotos/category/31-ribamar.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/31-ribamar.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/31-ribamar.html"><img src="http://ribafs.org/familia/images/phocagallery/ribamar/thumbs/phoca_thumb_m_eu_dnocs.jpg" border="0" /></a></div>]]></description>
+			<category>Ribamar</category>
+			<pubDate>Tue, 08 May 2018 10:05:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>ribafs</title>
+			<link>http://ribafs.org/familia/fotos/category/31-ribamar.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/31-ribamar.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/31-ribamar.html"><img src="http://ribafs.org/familia/images/phocagallery/ribamar/thumbs/phoca_thumb_m_ribafs.png" border="0" /></a></div>]]></description>
+			<category>Ribamar</category>
+			<pubDate>Tue, 08 May 2018 10:05:53 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

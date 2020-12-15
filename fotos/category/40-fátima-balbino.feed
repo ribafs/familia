@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:17 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/40-fátima-balbino.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>fatimabalbino</title>
+			<link>http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/40-fátima-balbino.html"><img src="http://ribafs.org/familia/images/phocagallery/fatimabalbino/thumbs/phoca_thumb_m_fatimabalbino.jpg" border="0" /></a></div>]]></description>
+			<category>Fátima Balbino</category>
+			<pubDate>Tue, 08 May 2018 11:05:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatimabalbino2</title>
+			<link>http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/40-fátima-balbino.html"><img src="http://ribafs.org/familia/images/phocagallery/fatimabalbino/thumbs/phoca_thumb_m_fatimabalbino2.jpg" border="0" /></a></div>]]></description>
+			<category>Fátima Balbino</category>
+			<pubDate>Tue, 08 May 2018 11:05:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatimabalbino3</title>
+			<link>http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/40-fátima-balbino.html"><img src="http://ribafs.org/familia/images/phocagallery/fatimabalbino/thumbs/phoca_thumb_m_fatimabalbino3.jpg" border="0" /></a></div>]]></description>
+			<category>Fátima Balbino</category>
+			<pubDate>Tue, 08 May 2018 11:05:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatimabalbino4</title>
+			<link>http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/40-fátima-balbino.html"><img src="http://ribafs.org/familia/images/phocagallery/fatimabalbino/thumbs/phoca_thumb_m_fatimabalbino4.jpg" border="0" /></a></div>]]></description>
+			<category>Fátima Balbino</category>
+			<pubDate>Tue, 08 May 2018 11:05:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>fatimabalbino5</title>
+			<link>http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/40-f%C3%A1tima-balbino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/40-fátima-balbino.html"><img src="http://ribafs.org/familia/images/phocagallery/fatimabalbino/thumbs/phoca_thumb_m_fatimabalbino5.jpg" border="0" /></a></div>]]></description>
+			<category>Fátima Balbino</category>
+			<pubDate>Tue, 08 May 2018 11:05:31 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

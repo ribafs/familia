@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">Elias</title>
+	<subtitle type="text">Site da família Evangelista Ferreira</subtitle>
+	<link rel="alternate" type="text/html" href="http://ribafs.org"/>
+	<id>http://ribafs.org/familia/v%C3%ADdeos/elias/10-elias.feed</id>
+	<updated>2018-11-16T11:44:54+00:00</updated>
+	<author>
+		<name>Familia EF</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://ribafs.org/familia/vídeos/elias/10-elias.feed?type=atom"/>
+	<entry>
+		<title>Voz do Elias Bebê</title>
+		<link rel="alternate" type="text/html" href="http://ribafs.org/familia/elias/voz-ainda-beb%C3%AA.html"/>
+		<published>2018-05-06T17:02:20+00:00</published>
+		<updated>2018-05-06T17:02:20+00:00</updated>
+		<id>http://ribafs.org/familia/elias/voz-ainda-beb%C3%AA.html</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3&gt;Voz do Elias ainda Bebê&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/EliasGargalhada3m10d.mp4&quot;&gt;Gargalhada com 3 meses e 10 dias&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/EliasVovoIzolda.mp4&quot;&gt;Só balbúcios&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;Voz do Elias ainda Bebê&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/EliasGargalhada3m10d.mp4&quot;&gt;Gargalhada com 3 meses e 10 dias&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ribafs.org/familia/images/audios/filhos/EliasVovoIzolda.mp4&quot;&gt;Só balbúcios&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Elias" />
+	</entry>
+	<entry>
+		<title>Vídeos do Elias</title>
+		<link rel="alternate" type="text/html" href="http://ribafs.org/familia/v%C3%ADdeos/elias.html"/>
+		<published>2018-05-06T15:23:13+00:00</published>
+		<updated>2018-05-06T15:23:13+00:00</updated>
+		<id>http://ribafs.org/familia/v%C3%ADdeos/elias.html</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;h3&gt;&lt;strong&gt;Aniversário de 18 Anos &lt;br /&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;By Tiago&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;video src=&quot;http://ribafs.org/familia/images/videos/elias/elias18.mp4&quot; controls=&quot;controls&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;
+
+  Seu navegador não suporta o elemento &lt;code&gt;video&lt;/code&gt;.&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=47teYjppNSg&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Andando de Skate em 2012&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;h3&gt;&lt;strong&gt;Aniversário de 18 Anos &lt;br /&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;By Tiago&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;video src=&quot;http://ribafs.org/familia/images/videos/elias/elias18.mp4&quot; controls=&quot;controls&quot; width=&quot;500&quot; height=&quot;350&quot;&gt;
+
+  Seu navegador não suporta o elemento &lt;code&gt;video&lt;/code&gt;.&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=47teYjppNSg&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Andando de Skate em 2012&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Elias" />
+	</entry>
+</feed>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:13 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/11-draulino.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>draulinofamilia</title>
+			<link>http://ribafs.org/familia/fotos/category/11-draulino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/11-draulino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/11-draulino.html"><img src="http://ribafs.org/familia/images/phocagallery/draulino/thumbs/phoca_thumb_m_draulinofamilia.jpg" border="0" /></a></div>]]></description>
+			<category>Draulino</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>draulinofamilia2</title>
+			<link>http://ribafs.org/familia/fotos/category/11-draulino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/11-draulino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/11-draulino.html"><img src="http://ribafs.org/familia/images/phocagallery/draulino/thumbs/phoca_thumb_m_draulinofamilia2.jpg" border="0" /></a></div>]]></description>
+			<category>Draulino</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>draulinofamilia3</title>
+			<link>http://ribafs.org/familia/fotos/category/11-draulino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/11-draulino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/11-draulino.html"><img src="http://ribafs.org/familia/images/phocagallery/draulino/thumbs/phoca_thumb_m_draulinofamilia3.jpg" border="0" /></a></div>]]></description>
+			<category>Draulino</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>draulinofamilia4</title>
+			<link>http://ribafs.org/familia/fotos/category/11-draulino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/11-draulino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/11-draulino.html"><img src="http://ribafs.org/familia/images/phocagallery/draulino/thumbs/phoca_thumb_m_draulinofamilia4.jpg" border="0" /></a></div>]]></description>
+			<category>Draulino</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>netinho2</title>
+			<link>http://ribafs.org/familia/fotos/category/11-draulino.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/11-draulino.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/11-draulino.html"><img src="http://ribafs.org/familia/images/phocagallery/draulino/thumbs/phoca_thumb_m_netinho2.jpg" border="0" /></a></div>]]></description>
+			<category>Draulino</category>
+			<pubDate>Tue, 08 May 2018 09:05:08 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

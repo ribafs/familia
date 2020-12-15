@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:16 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/14-filipe.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>filipeviolao</title>
+			<link>http://ribafs.org/familia/fotos/category/14-filipe.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/14-filipe.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/14-filipe.html"><img src="http://ribafs.org/familia/images/phocagallery/filipe/thumbs/phoca_thumb_m_filipeviolao.jpg" border="0" /></a></div>]]></description>
+			<category>Filipe</category>
+			<pubDate>Tue, 08 May 2018 09:05:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>filimeamigos2</title>
+			<link>http://ribafs.org/familia/fotos/category/14-filipe.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/14-filipe.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/14-filipe.html"><img src="http://ribafs.org/familia/images/phocagallery/filipe/thumbs/phoca_thumb_m_filimeamigos2.jpg" border="0" /></a></div>]]></description>
+			<category>Filipe</category>
+			<pubDate>Tue, 08 May 2018 09:05:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>filipeamigos</title>
+			<link>http://ribafs.org/familia/fotos/category/14-filipe.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/14-filipe.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/14-filipe.html"><img src="http://ribafs.org/familia/images/phocagallery/filipe/thumbs/phoca_thumb_m_filipeamigos.jpg" border="0" /></a></div>]]></description>
+			<category>Filipe</category>
+			<pubDate>Tue, 08 May 2018 09:05:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>filipeamigos2</title>
+			<link>http://ribafs.org/familia/fotos/category/14-filipe.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/14-filipe.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/14-filipe.html"><img src="http://ribafs.org/familia/images/phocagallery/filipe/thumbs/phoca_thumb_m_filipeamigos2.jpg" border="0" /></a></div>]]></description>
+			<category>Filipe</category>
+			<pubDate>Tue, 08 May 2018 09:05:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>filipeamigos3</title>
+			<link>http://ribafs.org/familia/fotos/category/14-filipe.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/14-filipe.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/14-filipe.html"><img src="http://ribafs.org/familia/images/phocagallery/filipe/thumbs/phoca_thumb_m_filipeamigos3.jpg" border="0" /></a></div>]]></description>
+			<category>Filipe</category>
+			<pubDate>Tue, 08 May 2018 09:05:42 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

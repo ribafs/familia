@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[Site da família Evangelista Ferreira]]></description>
+		<link>http://ribafs.org</link>
+		<lastBuildDate>Fri, 16 Nov 2018 11:44:13 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://ribafs.org/familia/fotos/category/12-emília.feed?type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>emilia2</title>
+			<link>http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/12-emília.html"><img src="http://ribafs.org/familia/images/phocagallery/emilia/thumbs/phoca_thumb_m_emilia2.jpg" border="0" /></a></div>]]></description>
+			<category>Emília</category>
+			<pubDate>Tue, 08 May 2018 09:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>emilia3</title>
+			<link>http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/12-emília.html"><img src="http://ribafs.org/familia/images/phocagallery/emilia/thumbs/phoca_thumb_m_emilia3.jpg" border="0" /></a></div>]]></description>
+			<category>Emília</category>
+			<pubDate>Tue, 08 May 2018 09:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>emilia4</title>
+			<link>http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/12-emília.html"><img src="http://ribafs.org/familia/images/phocagallery/emilia/thumbs/phoca_thumb_m_emilia4.jpg" border="0" /></a></div>]]></description>
+			<category>Emília</category>
+			<pubDate>Tue, 08 May 2018 09:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>emilia5</title>
+			<link>http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/12-emília.html"><img src="http://ribafs.org/familia/images/phocagallery/emilia/thumbs/phoca_thumb_m_emilia5.jpg" border="0" /></a></div>]]></description>
+			<category>Emília</category>
+			<pubDate>Tue, 08 May 2018 09:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>emilia_familia</title>
+			<link>http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</link>
+			<guid isPermaLink="true">http://ribafs.org/familia/fotos/category/12-em%C3%ADlia.html</guid>
+			<description><![CDATA[<div><a href="http://ribafs.org/familia/fotos/category/12-emília.html"><img src="http://ribafs.org/familia/images/phocagallery/emilia/thumbs/phoca_thumb_m_emilia_familia.jpg" border="0" /></a></div>]]></description>
+			<category>Emília</category>
+			<pubDate>Tue, 08 May 2018 09:05:02 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
